@@ -11,7 +11,7 @@ A robust machine learning model for predicting diabetes using the PIMA Indians D
 
 ## 📖 Project Overview
 
-The **Diabetes Prediction Model** predicts the likelihood of diabetes based on clinical features like glucose levels, BMI, and insulin. By combining Random Forest, XGBoost, and LightGBM classifiers in a voting ensemble, the model ensures high performance and generalizability.
+The **Diabetes Prediction Model** predicts the likelihood of diabetes based on clinical features like glucose levels, BMI, and insulin. By combining Random Forest, XGBoost, and LightGBM classifiers in a voting ensemble, the model ensures high performance and generalizability.   
 
 ### Key Highlights   
 - **Data Preprocessing**: Handles missing values and outliers with RobustScaler.
